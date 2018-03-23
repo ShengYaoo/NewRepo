@@ -10,7 +10,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("1104105336");
+            Console.WriteLine("作業測試");
+            Console.WriteLine("1104105336陳秉豐");
             Console.ReadKey();
         }
     }
