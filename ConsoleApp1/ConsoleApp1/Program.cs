@@ -11,6 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Your Name");
+	    Console.WriteLine("我是驱逐舰清霜！I am Destroyer,Kiyoshimo！");
         }
     }
 }
